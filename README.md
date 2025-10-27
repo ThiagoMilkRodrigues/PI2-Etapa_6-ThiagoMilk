@@ -18,6 +18,6 @@ View: removida nesta etapa, pois o foco agora é apenas o back-end.
 Os testes foram realizados diretamente no método main(), validando as operações básicas como cadastro de usuários e gerenciamento de transações. O sistema se mostrou funcional após as refatorações.
 
 O novo projeto foi criado e publicado em um repositório no GitHub, contendo todas as classes refatoradas e organizadas.
-Link do repositório: (colocar aqui o link)
+Link do repositório: https://github.com/ThiagoMilkRodrigues/PI2-Etapa_6-ThiagoMilk.git
 
 Com essa etapa concluída, o sistema está totalmente preparado para ser utilizado como base no desenvolvimento da versão web, atendendo aos princípios SOLID e garantindo uma estrutura de código mais organizada e reutilizável.
